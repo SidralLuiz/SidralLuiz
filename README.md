@@ -2,14 +2,14 @@
 
 ### Full-Stack Developer | AI Enthusiast | Data Engineering
 
-Sou um desenvolvedor que gosta de transitar entre a arquitetura de sistemas escaláveis e a automação inteligente. Foco em transformar lógica complexa em ferramentas funcionais e eficientes.
+Sou um desenvolvedor focado em construir soluções escaláveis e automações inteligentes. Gosto de explorar a intersecção entre arquitetura de software e engenharia de dados.
 
 ---
 
-### 🚀 Projetos em Destaque
-- 💰 **Finan-as:** Ecossistema para controle e gestão financeira pessoal.
-- 💈 **BarberTech Vision:** Solução SaaS para gestão de redes de barbearias com foco em experiência do usuário.
-- 🧪 **AI Lab:** Experimentos com orquestração de LLMs locais e arquiteturas autônomas.
+### 🚀 Projetos Pessoais em Destaque
+- 💰 **Finan-as:** Ecossistema voltado para gestão financeira e controle de ativos.
+- 💈 **BarberTech Vision:** Plataforma SaaS para gerenciamento completo de redes de barbearias.
+- 🧪 **AI Orchestration:** Experimentos com multi-agentes e fluxos de trabalho assistidos por IA.
 
 ---
 
@@ -19,29 +19,29 @@ Sou um desenvolvedor que gosta de transitar entre a arquitetura de sistemas esca
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 📈 GitHub Insights
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidralluiz&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidralluiz&layout=compact&langs_count=6&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidralLuiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidralLuiz&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-### 🔧 Workflow & Interesses
-*   **Data Ops:** Automação de pipelines de dados e integração com data warehouses.
-*   **IA Conectada:** Implementação de fluxos "Planner-Worker" para aumentar a produtividade no código.
-*   **Sistemas Distribuídos:** Curiosidade constante sobre escalabilidade e cloud computing.
+### 🔧 Workflow & Estudos
+*   **Engenharia de Dados:** Integração de fluxos complexos e automação de pipelines.
+*   **Sistemas Inteligentes:** Implementação de arquiteturas como Planner-Worker para otimização de processos.
+*   **Arquitetura:** Foco em Clean Code e padrões de projeto modernos.
 
 ---
 
-### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sidral//)
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sidral/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 ---
