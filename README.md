@@ -27,8 +27,8 @@ Sou um desenvolvedor focado em construir soluções escaláveis e automações i
 ### 📈 GitHub Insights
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidralLuiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidralLuiz&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SidralLuiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas de SidralLuiz" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SidralLuiz&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800" alt="Linguagens mais usadas" />
 </p>
 
 ---
