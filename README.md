@@ -27,8 +27,8 @@ Sou um desenvolvedor que gosta de transitar entre a arquitetura de sistemas esca
 ### 📈 GitHub Insights
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsidral&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsidral&layout=compact&langs_count=6&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidralluiz&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidralluiz&layout=compact&langs_count=6&theme=dracula" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Sou um desenvolvedor que gosta de transitar entre a arquitetura de sistemas esca
 ---
 
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizsidral/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sidral//)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 ---
