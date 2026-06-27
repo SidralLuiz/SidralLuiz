@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Flávio Sidral! 👋
+# Olá, eu sou  Luiz Flávio Sidral! 👋
 
 ### Full-Stack Developer | AI Enthusiast | Data Engineering
 
